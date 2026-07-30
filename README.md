@@ -47,6 +47,7 @@
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 
 </div>
+
 ---
 
 ## 📊 Contributions
@@ -58,6 +59,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hokori/hokori/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 ---
 
 <div align="center">
