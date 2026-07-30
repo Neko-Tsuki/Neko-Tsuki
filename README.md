@@ -50,17 +50,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hokori&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hokori&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=hokori&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
----
-
 <div align="center">
   <sub>✨ 在代码的世界里修行，在幻想的境界里生活。</sub>
 </div>
